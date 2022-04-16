@@ -1,2 +1,2 @@
 # primeiros-programas-parte-II
- Desenvolvidos no módulo Lógica de Programação II da Alura
+ Desenvolvidos no curso Lógica de Programação II da Alura
